@@ -18,8 +18,12 @@ Early experience with programming through middle and high school expanded my vie
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-CCNA%3A_Introduction_to_Networks-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pre_Security_Certificate-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+    <a href="https://www.credly.com/badges/824cd0a1-82ce-45d2-9e52-451206f9733b/linked_in_profile" target="_blank">
+        <img src="https://img.shields.io/badge/-CCNA%3A_Introduction_to_Networks-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
+    <a href="https://tryhackme.com/certificate/THM-72LQLPQWEQ" target="_blank">
+        <img src="https://img.shields.io/badge/-Pre_Security_Certificate-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+    </a>
 </div>
 
 ## Projects
