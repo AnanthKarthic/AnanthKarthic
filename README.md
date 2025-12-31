@@ -1,5 +1,7 @@
 # Hello, I'm Ananth Karthic
-<a href="www.linkedin.com/in/ananthkarthic"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ananthkarthic">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 I am an aspiring cybersecurity analyst actively building hands-on experience in the field, with a strong interest in exploring the intersection of artificial intelligence and cybersecurity.
 
