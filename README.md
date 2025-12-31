@@ -16,7 +16,7 @@ Early experience with programming through middle and high school expanded my vie
 | Network Traffic Analysis using Python and ARP Scan          | Portable Network Sniffer Tool|
 | Python Programming with JSON Data Handling | Study Buddy Using Python|
 | Full-Stack Development: Python, Flask, HTML/CSS, JSON        | Fiscal Flow Application|
-| Front-End Development: HTML, CSS, JavaScript      | <a href="https://google.com">EcoVera Website</a>|
+| Front-End Development: HTML, CSS, JavaScript      | EcoVera Website|
 
 ## Certifications
 <div>
@@ -32,4 +32,4 @@ Early experience with programming through middle and high school expanded my vie
 - <a href="https://github.com/AnanthKarthic/Portable-Network-Sniffer-Tool/tree/main">Portable Network Sniffer Tool</a>
 - <a href="https://github.com/AnanthKarthic/Study-Buddy-Using-Python">Study Buddy Using Python</a>
 - <a href="https://github.com/AnanthKarthic/Fiscal-Flow-Application">Fiscal Flow Application</a>
-- EcoVera Website
+- <a href="https://github.com/AnanthKarthic/EcoVera-Website">EcoVera Website</a>
