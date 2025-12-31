@@ -1,13 +1,9 @@
 # Hello, I'm Ananth Karthic
-<a href="https://www.linkedin.com/in/ananthkarthic">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br><br>
- I am an aspiring cybersecurity analyst actively building hands-on experience in the field, with a strong interest in exploring the intersection of artificial intelligence and cybersecurity.
+### <a href="https://www.linkedin.com/in/ananthkarthic"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
-Early experience with programming through middle and high school expanded my view of computer science and introduced me to the critical role of security within software and systems, motivating my focus on cybersecurity.
+ I am an aspiring cybersecurity analyst actively building hands-on experience in the field, with a strong interest in exploring the intersection of artificial intelligence and cybersecurity. Early experience with programming through middle and high school expanded my view of computer science and introduced me to the critical role of security within software and systems, motivating my focus on cybersecurity.
 
 ## Skills
 
