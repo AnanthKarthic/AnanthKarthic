@@ -29,7 +29,7 @@ Early experience with programming through middle and high school expanded my vie
 </div>
 
 ## Projects
-- Portable Network Sniffer Tool
+- <a href="https://github.com/AnanthKarthic/Portable-Network-Sniffer-Tool/tree/main">Portable Network Sniffer Tool</a>
 - Analysis of the Performance of YouTube Channels Using Python and External Libraries
 - Fiscal Flow Application
 - EcoVera Website
