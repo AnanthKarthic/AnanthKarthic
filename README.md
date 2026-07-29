@@ -13,6 +13,7 @@
 | Python Programming with JSON Data Handling | Study Buddy Using Python|
 | Full-Stack Development: Python, Flask, HTML/CSS, JSON        | Fiscal Flow Application|
 | Front-End Development: HTML, CSS, JavaScript      | EcoVera Website|
+| Embedded C++ Programming and Arduino Robotics | Autonomous Maze-Solving Robot|
 
 ## Certifications
 <div>
@@ -29,3 +30,4 @@
 - <a href="https://github.com/AnanthKarthic/Study-Buddy-Using-Python">Study Buddy Using Python</a>
 - <a href="https://github.com/AnanthKarthic/Fiscal-Flow-Application">Fiscal Flow Application</a>
 - <a href="https://github.com/AnanthKarthic/EcoVera-Website">EcoVera Website</a>
+- <a href=https://github.com/AnanthKarthic/Autonomous-Maze-Robot>Autonomous Maze-Solving Robot</a>
