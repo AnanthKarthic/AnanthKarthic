@@ -29,5 +29,5 @@
 - <a href="https://github.com/AnanthKarthic/Portable-Network-Sniffer-Tool/tree/main">Portable Network Sniffer Tool</a>
 - <a href="https://github.com/AnanthKarthic/Study-Buddy-Using-Python">Study Buddy Using Python</a>
 - <a href="https://github.com/AnanthKarthic/Fiscal-Flow-Application">Fiscal Flow Application</a>
-- <a href="https://github.com/AnanthKarthic/EcoVera-Website">EcoVera Website</a>
+- <a href="https://github.com/ananthcod3/EcoVera">EcoVera Website</a>
 - <a href=https://github.com/AnanthKarthic/Autonomous-Maze-Robot>Autonomous Maze-Solving Robot</a>
