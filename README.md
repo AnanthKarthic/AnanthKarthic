@@ -14,6 +14,7 @@
 | Full-Stack Development: Python, Flask, HTML/CSS, JSON        | Fiscal Flow Application|
 | Front-End Development: HTML, CSS, JavaScript      | EcoVera Website|
 | Embedded C++ Programming and Arduino Robotics | Autonomous Maze-Solving Robot|
+| Advanced Encryption Standards | CyberVault|
 
 ## Certifications
 <div>
